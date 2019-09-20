@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+		xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id	    = "tw.mcu.fj8111.project_book"
+		versionCode = "1" 
+		version     = "0.1.0" >
+ 
+	<name>my first app</name>
+ 
+	<description>
+		寫一段描述的文字
+	</description>
+ 
+	<author href="" email="dj8111@gmail.com">
+		dj8111
+	</author>
+	
+	<icon src="icon.png" />
+	
+	<!-- current version of PhoneGap -->
+	
+	<preference name='phonegap-version' value='cli-6.5.0' />
+	
+	<!-- 設定畫面固定為水平(landscape)、垂直(portrait) -->
+
+
+	<!-- 加入其它plugin設定 -->
+	
+</widget>
